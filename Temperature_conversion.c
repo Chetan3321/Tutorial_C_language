@@ -1,3 +1,14 @@
+/* Temperature Conversion (F-C and C-F)
+ * Write a program to Convert temperature from C to F
+ *
+ * Example 1:
+ * 	input: 32
+ * 	output: 
+ * 	32.00 F = 0.00 C
+ * 	32.00 C = 89.60 F
+*/
+
+
 #include<stdio.h>
 
 int main()
